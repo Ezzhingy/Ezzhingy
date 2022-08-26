@@ -12,6 +12,7 @@ I'm an aspiring full-stack developer currently enrolled as a freshman in the Hon
 Eugene Zhang
 
 LinkedIn: https://www.linkedin.com/in/eugene-zhang-1199b820a/
+
 Email: zhang.eug@gmail.com
 
 <!---
