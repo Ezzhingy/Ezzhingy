@@ -1,4 +1,4 @@
-<h1 align="center">Heyo 👋, the name's Zhang, Eugene Zhang!</h1>
+<h1 align="center">Heyo 👋, Eugene Zhang here.</h1>
 
 I'm an aspiring full-stack developer currently enrolled as a freshman in the Honours Computer Science Co-op Program at the University of Waterloo.
 
