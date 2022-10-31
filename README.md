@@ -15,7 +15,7 @@ LinkedIn: https://www.linkedin.com/in/eugene-zhang-1199b820a/
 
 Email: zhang.eug@gmail.com
 
-![Ezzhingy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzhingy&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzhingy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Ezzhingy/Ezzhingy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
