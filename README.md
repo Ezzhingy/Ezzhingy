@@ -15,8 +15,7 @@ LinkedIn: https://www.linkedin.com/in/eugene-zhang-1199b820a/
 
 Email: e4zhang@uwaterloo.ca
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzhingy)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzhingy&layout=compact)](https://github.com/Ezzhingy/github-readme-stats)
 
 <!---
 Ezzhingy/Ezzhingy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
