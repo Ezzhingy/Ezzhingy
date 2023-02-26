@@ -5,7 +5,7 @@ I'm an aspiring full-stack developer currently enrolled as a freshman in the Hon
 ## 👀 Talk to me about:
 - Improving website design using React, TailwindCSS, and JavaScript. Next.js on the horizon!
 - Backend web development. Intermediate in Flask and now tackling Node.js + Express.js!
-- Data structures and algorithms. Currently using Python! 
+- Data structures and algorithms. Currently using Python! Maybe switching to C++ for faster compilation times 👀
 
 ## 📫 Contact
 
