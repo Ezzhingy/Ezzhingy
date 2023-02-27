@@ -7,6 +7,8 @@ I'm a full-stack developer currently enrolled as a freshman in the Honours Compu
 - Backend web development. Intermediate in Flask and now tackling Node.js + Express.js!
 - Data structures and algorithms. Currently using Python! Maybe switching to C++ for faster compilation time..
 
+![Ezzhingy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzhingy&show_icons=true&theme=radical)
+
 ## 📫 Contact
 
 Eugene Zhang
