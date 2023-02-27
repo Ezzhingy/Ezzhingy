@@ -15,7 +15,7 @@ LinkedIn: https://www.linkedin.com/in/eugene-zhang-1199b820a/
 
 Email: e4zhang@uwaterloo.ca
 
-![Ezzhingy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzhingy&show_icons=true&theme=gruvbox)
+<!-- ![Ezzhingy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzhingy&show_icons=true&theme=gruvbox) -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzhingy&layout=compact)](https://github.com/Ezzhingy/readme-stats)
