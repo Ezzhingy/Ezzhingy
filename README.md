@@ -7,8 +7,6 @@ I'm a full-stack developer currently enrolled as a freshman in the Honours Compu
 - Backend web development. Intermediate in Flask and now tackling Node.js + Express.js!
 - Data structures and algorithms. Currently using Python! Maybe switching to C++ for faster compilation time..
 
-![Ezzhingy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzhingy&show_icons=true&theme=radical)
-
 ## 📫 Contact
 
 Eugene Zhang
@@ -16,6 +14,9 @@ Eugene Zhang
 LinkedIn: https://www.linkedin.com/in/eugene-zhang-1199b820a/
 
 Email: e4zhang@uwaterloo.ca
+
+![Ezzhingy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzhingy&show_icons=true&theme=tokyonight)
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzhingy&layout=compact)](https://github.com/Ezzhingy/readme-stats)
  -->
