@@ -3,7 +3,7 @@
 I'm a fullstack developer currently enrolled as a freshman in the Honours Computer Science Co-op Program at the University of Waterloo.
 
 ## 👀 Talk to me about:
-- Improving website design using React, TailwindCSS, and JavaScript. Next.js on the horizon!
+- Improving website design using Next.js, React, and Tailwind. Svelte on the horizon!
 - Backend web development. Intermediate in Flask and now tackling Node.js + Express.js!
 - Data structures and algorithms. Currently using Python! Maybe switching to C++ for faster compilation time..
 
