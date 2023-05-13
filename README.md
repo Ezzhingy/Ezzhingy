@@ -1,6 +1,6 @@
 <h1 align="center">Heyo 👋, Eugene Zhang here.</h1>
 
-I'm a fullstack developer currently enrolled as a freshman in the Honours Computer Science Co-op Program at the University of Waterloo.
+I'm a software developer currently enrolled as a freshman in the Honours Computer Science Co-op Program at the University of Waterloo.
 
 ## 👀 Talk to me about:
 - Improving website design using Next.js, React, and Tailwind. Svelte on the horizon!
