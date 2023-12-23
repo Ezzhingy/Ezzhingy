@@ -11,7 +11,7 @@ I'm a software developer currently enrolled as a sophomore in the Honours Comput
 
 Eugene Zhang
 
-LinkedIn: https://www.linkedin.com/in/eugene-zhang-1199b820a/
+LinkedIn: https://www.linkedin.com/in/eugene-ezzhang
 
 Email: e4zhang@uwaterloo.ca
 
