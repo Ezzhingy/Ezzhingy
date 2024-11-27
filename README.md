@@ -1,10 +1,10 @@
 ### Heyo 👋, Eugene Zhang here.
 
-I'm a software developer currently enrolled as a sophomore in the Honours Computer Science Co-op Program at the University of Waterloo.
+I'm a junior enrolled in the Honours Computer Science Co-op Program at the University of Waterloo.
 
 #### 👀 Talk to me about:
 - Improving website design using Next.js, React, and Tailwind. Svelte on the horizon!
-- Backend web development. Intermediate in Flask & Node.js + Express.js!
+- Backend web development. Proficient in Node.js + Express.js and Flask!
 - Data structures and algorithms. Currently using Python! Maybe switching to C++ for faster compilation time..
 
 ----
