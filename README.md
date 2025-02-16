@@ -11,10 +11,10 @@ I'm a junior enrolled in the Honours Computer Science Co-op Program at the Unive
 
 #### 📫 Contact
 <a href="https://www.linkedin.com/in/eugene-ezzhang">
-  <img align="left" alt="Eugene's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Eugene's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:e4zhang@uwaterloo.ca">
-  <img align="left" alt="Eugene's Email" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
+  <img align="left" alt="Eugene's Email" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; [eugenezhang.me](https://eugenezhang.me/)
